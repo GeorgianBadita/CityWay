@@ -1,0 +1,55 @@
+{
+  "project_info": {
+    "project_number": "734936227125",
+    "firebase_url": "https://cityway-91be5.firebaseio.com",
+    "project_id": "cityway-91be5",
+    "storage_bucket": "cityway-91be5.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:734936227125:android:c5d66a79666edadf",
+        "android_client_info": {
+          "package_name": "com.example.dragos.electicscooters"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "734936227125-s2don9rpgh6qb1snpkjpdrf9j1gaun7v.apps.googleusercontent.com",
+          "client_type": 1,
+          "android_info": {
+            "package_name": "com.example.dragos.electicscooters",
+            "certificate_hash": "97d1b083cfad18a23ea357e5efc1a88342d454ba"
+          }
+        },
+        {
+          "client_id": "734936227125-8i00oq54e95tit1l5pk5h4gdm84irdii.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyDCBL53dxWpVJgvHl2l3OGgTI3-BgwMupA"
+        }
+      ],
+      "services": {
+        "analytics_service": {
+          "status": 1
+        },
+        "appinvite_service": {
+          "status": 2,
+          "other_platform_oauth_client": [
+            {
+              "client_id": "734936227125-8i00oq54e95tit1l5pk5h4gdm84irdii.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        },
+        "ads_service": {
+          "status": 2
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
